@@ -1,0 +1,4 @@
+nome;email;senha;recebeValeTransporte;cargo
+Hélio;helio@email.com;123456;sim;Professor M4
+Joaquina;joaquina@email.com;123456;sim;Professor M1
+Jão;jao@email.com.br;321654;não;Professor M4
